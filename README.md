@@ -17,4 +17,4 @@ Once you have run this commmand, you should clone the biobuddy repository and in
 pip install .
 
 ````
-from the root directory of the BioBuddy source code (the folder containing the file setup.py).    
+from the root directory of the (BioBuddy)[https://github.com/pyomeca/biobuddy] source code (the folder containing the file setup.py).    
